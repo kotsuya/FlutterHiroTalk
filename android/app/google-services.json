@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985333844064",
+    "firebase_url": "https://flutterhirotalk.firebaseio.com",
+    "project_id": "flutterhirotalk",
+    "storage_bucket": "flutterhirotalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985333844064:android:16aee897152f7ded249b05",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hiro_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985333844064-1jtk476b298dmej3o0crkleppusq6kil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG8o43B57cBU152fPEuLll4yxR7_TyuaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985333844064-1jtk476b298dmej3o0crkleppusq6kil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985333844064-h33c9qhcq8fgns4i5fi20h3irdbcfi3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterHiroTalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
